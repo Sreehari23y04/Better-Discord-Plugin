@@ -1,7 +1,7 @@
 /**
  * @name HelloworldPlugin
  * @author FB
- * @description To show Hello World alert message
+ * @description To show Hello World Modal
  * @version 0.0.1
  */
 // Do stuff here before being called
