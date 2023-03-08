@@ -1,6 +1,8 @@
 # Better-Discord-Plugin
 Simple Better Plugin Created by FB
 
+How to Use
+
 The first step is recommend to open the discord app.
 
 You need to Download & Install the better discord plugin for discord app.
